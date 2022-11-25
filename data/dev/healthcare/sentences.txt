@@ -1,0 +1,400 @@
+The control station is typically located in a place that is remote from the robot face.
+The CHANGE button can be selected to change the default robot face in a new session.
+Capturing and playing back video can be taken through graphical icons.
+The robot face may also have a voice recognition system that allows the user to grant access with a voice command.
+The robot face can be retrofitted onto booms that presently exist in medical facilities.
+There has been developed a robotic system sold by Intuitive Surgical, Inc.  under the trademark Da Vinci which allows a surgeon to remotely perform a surgical procedure through use of robot arms located at the surgical site.
+It would be desirable to allow remote medical consultation with a system that was relatively inexpensive and easy to install into existing operating rooms.
+Alert icon can be selected by the user at the remote station to generate an alert indicator such as a sound from the speaker of the robot face.
+The annotated image may be stored by the system.
+The user can rapidly move through the still images in a slide show fashion or move through a captured video clip by moving the slide bar.
+There are also several open source ASR packages, such as Sphinx, HTK, and Kaldi.
+Technology also currently exists that enables voice-based determination of a caller's demographic profile information.
+Speech compression is also a mature and widely utilized technology.
+Some systems also use "anti-speaker" techniques, such as cohort models, and world models.
+Other approaches to estimating ASR confidence are known and available in the prior art.
+There is a difference between speaker recognition (recognizing who is speaking) and speech recognition (recognizing what is being said).
+Its main function is to eliminate dead space, to improve utilization efficiency of more compute-intensive resources, such as the ASR engine, or of storage resources.
+Though depicted as a distinct step, it may be performed as part of the VAD or ASR processes.
+Data is then sent from the Storage Tier to the Processing Tier for processing, with the processed data sent back to the Storage Tier for storage/archiving.
+One example is the caller's speaking dialect.
+Liquid antimicrobial compositions are generally used by consumers for immediate protection against microorganisms.
+Any section headings are added for convenience only, and are not intended to limit the disclosure in any way.
+The antimicrobial composition according to the invention is preferably a leave-on composition.
+In addition, niacinamide is used in the treatment of many inflammatory skin conditions like Acne vulgaris, Psoriasis and Atopic dermatitis.
+Most preferred are propylene glycol, polyethylene glycol and combinations thereof.
+Skin hygiene is of high priority to present day consumers.
+The term "antimicrobial composition" as used herein refers to a composition that is capable of killing bacteria or of inhibiting their growth.
+The composition is preferably transparent.
+A mixture containing 60% total alcohols is effective against wide spectrum of bacteria.
+This spreading was done using gloves.
+Medical imaging methods based on x-rays have a wide diagnostic application range.
+The apparatus for medical examinations also includes a second arm that may be rotated about the axis, at least in sections.
+The arm may make comparatively small rotational movements in order to realize complex trajectories.
+Angiography is an important field in which these aims prevail.
+The second arm is attached to the first arm such that a rotation of the first arm also rotates the second arm.
+In current and future applications, several recordings are performed from different positions.
+The reconstruction quality is, however, not far from that of a 3D reconstruction with the aid of a modern CT device.
+The rigid C-arm is divided into two arms for the description of trajectories with respect to the region examined using the emitter and detector.
+These components are, for example, a drive controller and/or regulator, a voltage transformer, a water coupling, a data coupling, and/or a power supply coupling.
+From the drive technology or structural design point of view, which forms the basis for maintaining the repetition accuracy, these maximum accelerations are severely restricted.
+The information gathered can include treatment parameters and patient feedback, and it can be securely stored in a cloud server.
+The app is used to control the CES system and also to gather information about treatment including patient feedback.
+Microprocessor communicates with transceiver and a waveform generator portion of the circuitry on circuit board.
+Main unit includes a plastic enclosure meeting applicable medical device safety standards.
+The housing features a multi-color LED indicator, charging port and electrode connection.
+In addition to controlling the CES device, the smart device with the software app can gather information about the treatment in certain embodiments.
+In several figures, where there are the same or similar elements, those elements are designated with the same or similar reference numerals.
+The patient may be prompted to annotate his or her treatment with comments at the conclusion of each treatment for further analysis by the patient's treatment provider.
+The app stores patient de-identified treatment information in a secure cloud server.
+Hence, this system has the potential for much better patient comfort and compliance as it can be easily incorporated into patient's lifestyle.
+Both motors and gear trains produce vibrational frequencies related to the rotation speed of their various components.
+The network can be wired, wireless, or a combination of wired and wireless.
+In an embodiment, the POS device is an integrated scanner and scale.
+This techniques works equally well in a scale having multiple load cells.
+Specifically, a frequency produced on a load cell is identified and the frequency is recognized as noise.
+In contrast, the majority of periodic mechanical vibrations come primarily from mechanical conduction of motor vibrations from various sources within the environment.
+The self-scale adjuster may, but does not have to have, access to a network during its processing.
+Many other embodiments will be apparent to those of skill in the art upon reviewing the above description.
+In an embodiment, the integrated scanner/scale using the spectra analyzer intelligently determines the times at which a spectral analysis may be performed.
+Furthermore, although the software modules are illustrated as executing on one piece of hardware, the software may be distributed over multiple processors or in any other convenient manner.
+Thus, the "pharmaceutical composition" can also be a veterinary composition when given to a subject other than a human.
+The stainless steel container can be cooled with liquid nitrogen and the valve can be opened.
+Therefore, the composition of the invention is both more effective and safer than the compositions described so far.
+This tracer is for instance used to diagnose cancer metastasis.
+This process is in contrast to diagnostics by X-ray, where external radiation is passed through the body to form an image.
+The fact that PET is not widely used in ventilation studies is mainly because of a series of limitations associated to the positron emitting labels.
+A third aspect of the invention is a pharmaceutical composition according to the first aspect of the invention for use as an image contrast agent.
+Increasing the integrated current C.sub.1 resulted in a significant increase in the final amount of radioactivity, as shown in entry.
+It also forms part of the invention a pharmaceutical composition according to the second aspect of the invention obtainable by the process of the first aspect of the invention.
+After 120 minutes, the amount of activity was measured in a dose calibrator and the gas was analyzed using the same analytical system as described above.
+Material is provided to the auger delivery and deposition element via the hopper.
+The heat also serves to reduce or eliminate the surface tension of the material.
+One skilled in the art will appreciate that the present teachings can be practiced with embodiments other than those disclosed.
+Movement of the actuation element serves to agitate the material and push it out of the deposition nozzle in a spray.
+The auger delivery and deposition element may be used to move a single material.
+Such injuries in turn lead to lost wages, reduction in productivity and increased cost for the individual, employer and government.
+This agitation element will break up the material and also push it through the nozzle tip in small amounts as droplets for deposition.
+Mixing is assisted by the pressures upon each material, but agitation from the atomization element in the deposition nozzle can also assist in mixing according to various embodiments.
+The Abstract is submitted with the understanding that it will not be used to interpret or limit the scope or meaning of the claims.
+We are seeing increasing numbers of first time exercisers, who more often than not, end up with injuries.
+The composition is a pharmaceutical composition or a food composition.
+Preferably, the composition is used for increasing the expression of melatonin and/or promoting the secretion of melatonin.
+The term "subject" recited in this specification refers to a mammalian, including human and non-human animals.
+Banana is a perennial herb originated from the tropical and subtropical Asia.
+Thereafter, cells of the above groups were harvested and subjected to a RNA extraction with an RNA Extract Kit.
+People can stay awake during the daytime because the secretion of melatonin is suppressed by the exposure to light.
+Accordingly, the decreased expression of TPH1 gene will affect the above physiological functions related to serotonin.
+It is known that DDC gene is involved in the synthesis of melatonin, and the deficiency of DDC gene will also lead to neurometabolic disorder.
+The applied type, applied route, applied form, applied frequency and uses in related application of the composition are all in line with the above descriptions.
+The RNA was then transcribed into cDNA with a Reverse Transcriptase.
+Autoinjector devices aim to make self-injection easier for patients.
+The control element may be directly coupled to the needle cap assembly and to the cartridge.
+Nucleic acids may be incorporated into molecular delivery systems such as vectors, plasmids, or liposomes.
+Improper handling of drug delivery devices may result in needle stick injuries.
+Drug delivery devices typically fall into two categories--manual devices and autoinjectors.
+In an exemplary embodiment, the activating element is guidable within the slot, wherein the activating element abuts the first stop in the initial position.
+In some embodiments, the antibody has reduced or no ability to bind an Fc receptor.
+Accordingly, the pharmaceutical formulations of the present disclosure encompass any formulation made by admixing a compound described herein and a pharmaceutically acceptable carrier.
+Pharmaceutically acceptable solvates are for example hydrates or alkanolates such as methanolates or ethanolates.
+The term "antibody", as used herein, refers to an immunoglobulin molecule or an antigen-binding portion thereof.
+The isolated gate driver power supply circuit includes an air core transformer including multiple windings magnetically coupled together.
+Overall, the gate driver provides high power efficiency and load insensitivity at lower cost.
+The patentable scope of the invention is defined by the claims, and may include other examples that occur to those skilled in the art.
+The gate driver includes an isolated gate driver power supply circuit that includes a coreless transformer (for example, air core transformer).
+In certain embodiments, the transformer may include a different number of windings or coils.
+The isolated gate driver power supply circuit also includes a resonance converter coupled to the air core transformer.
+The gate drivers are electronic circuits coupling the control electronics (for example, controller 16) to power semiconductor devices to enable control functions such as turning on/off the power devices.
+The gate drivers are configured to be utilized reliably and safely in presence of a high magnetic field within the scan room.
+In particular, the transformer includes a primary winding or coil, secondary winding or coil, and tertiary winding or coil.
+In addition, the resonance converter tunes the transformer to enable the isolated gate driver power supply circuit to generate an output independent of load.
+The compositions may further comprise one or more antimicrobial agent that is not a cationic antimicrobial agent.
+The surfactant may be a cationic surfactant, an ampholytic surfactant, or a nonionic surfactant.
+Various patent and non-patent references are cited herein, the contents of which are hereby incorporated by reference in their entireties herein.
+A composition as disclosed herein may optionally further comprise a surfactant.
+The compositions disclosed herein may be used as soaps, hand sanitizers, creams, lotions, and splashes and may optionally be comprised in wipes.
+"Persistent antimicrobial activity" is antimicrobial activity that is retained after the initial exposure to the composition, although not necessarily at the same level.
+The effect of different sesquiterpenoids on substantive antibacterial activity was also examined using the methods described above.
+In certain non-limiting embodiments, the composition comprises a synergistic combination of benzyl alcohol and one or more cationic antimicrobial agent such as a biguanide and/or a quaternary ammonium compound.
+This problem could be addressed by the development of soaps and other skin-care products that have sufficient residual antibacterial activity on the skin to inactivate newly introduced bacteria.
+Non-limiting examples are described below by way of illustration but further embodiments would be envisaged by the person of skill in the art.
+The tocotrienols exhibit more powerful antioxidant and anti cancer power than the tocopherols.
+Then the mixture was dried to remove any traces of moisture in it and analyzed to check the recovery of tocols and squalene.
+Palm tocols is also useful to lower the cholesterol level in the body.
+Tocols are an important group of organic molecules widely used in pharmaceutical and nutraceutical products.
+First molecular distillation step is used to remove fatty acid methyl esters.
+The major issues with the recovery of tocols and other byproducts from materials like PFAD are the yield and quality of the final compositions.
+The invention involves a process for producing a product that is enriched in tocols and other components of palm oil such as squalene.
+The final residue stream obtained in step is loaded to the silica column having a mesh size of 60-120 mesh for about 55 minutes.
+Then the mixture was dried to remove any traces of moisture in it and analyzed for the recovery of tocols and squalene.
+The tocopherols [vitamin E derivatives] of plant origin are widely used as vitamin supplements in various food and cosmetics products.
+Various modifications, however, will remain readily apparent to those in the art.
+Sequence controller also controls the generation of RF pulses by RF system and RF power amplifier.
+System may comprise any general-purpose or dedicated computing system.
+The commands may specify MR scan parameter values which are used by system.
+The FOV and desired resolution will be used to determine the matrix size.
+These factors may contribute to inefficient and/or incorrect selection of MR scan parameters, which may subsequently lead to sub-optimal imaging.
+For example, an inversion, or saturation, pulse is used in non-contrast-enhanced angiography to suppress venous blood in order to highlight the arterial system.
+For example, sequence controller may be instructed to initiate an MR pulse sequence based on a set of parameter values which was received and determined as described herein.
+In some instances, user input of some MR scan parameter values is required while user input of other MR scan parameter values is optional.
+All systems and processes discussed herein may be embodied in program code stored on one or more non-transitory computer-readable media.
+These modes are advertising, scanning and initiating.
+The CCH may be a distinct logical or physical radio channel.
+The first physical channel is a control channel (abbreviated as CCH) and the second physical channel is a data channel (DCH).
+The present invention is not restricted to embodiments disclosed above but the invention may vary within the scope of the claims.
+The active period commences at the start of Beacon Period and the active period is followed by the inactive period.
+The prior art solutions mainly focus on the situation where just a single operational network exists in the situation where neighbouring networks are desired to be found out.
+Certain alarms can be set and triggered if a certain measurement result gives a reason to be worried, or at least, if there is a life-threatening change in the patient's measured condition.
+Regarding the definitions of the parts present in the inter-beacon interval, it is possible in another embodiment to define the IBI so that it comprises an inactive period and after the inactive period, an active period will follow.
+It can be thus deduced that in case there is a transmission or reception in the inactive period of the IBI, the transmitting or receiving entity must then always be the Hub.
+The control channel is used in initializing the network.
+The optical system may also be fixed to the casing of the handheld device.
+The optical system may be built as a single unit and can be annexed with a handheld device.
+Colorimetric strips relating to water quality may also be imaged for testing water quality.
+However, other optical devices for directing light may also be used.
+According to an embodiment herein, the optical system is positioned in front of the camera and the light source of the handheld device.
+Efforts have been put in to explore as to how the high penetration of communication devices can improve such healthcare outcomes as well as generate cost savings.
+According to yet another embodiment, wherein the second portion comprises an extraction element adapted to uniformly extract the light.
+Use of a turning optic for providing the added turn angle provides the advantage of deploying a flat transparent optic.
+According to another embodiment, guided fitment may be achieved by providing the user a visual or audio feedback.
+The handheld device may be a mobile phone, a tablet computer, or any other handheld device comprising a camera, a light source and processing capabilities.
+Batch mode images or selected real time images are stored in a host database on disc storage.
+The system also includes a processor configured to receive the image data.
+Thus, at decision block, a check is made against a threshold, which may be a boundary condition or optimization criteria.
+The RF system also includes one or more RF receiver channels.
+Common examples of quantitative MRI applications include diffusion imaging, perfusion imaging, relaxometry, and elastography.
+The model of the medical imaging system may be, for example, a large-scale system operator that describes the acquisition of data using the medical imaging system.
+In general, the operator workstation may be coupled to four servers: a pulse sequence server; a data acquisition server; a data processing server; and a data store server.
+The networked workstation may be located within the same facility as the operator workstation, or in a different facility, such as a different healthcare institution or clinic.
+In particular, an initial estimate may be derived from the acquired data and, for this estimation to be well-posed, auxiliary regularization or constraints may be used.
+For example, the quantitative estimates may be overlaid on anatomical images, such as using a color coding or other display or report mechanism.
+A top rubber cover is also provided as part of the intermediate portion.
+Stem is also formed by synthetic resin, such as for example, POM.
+A battery to be inserted in the battery holder is a rechargeable battery or a dry cell battery.
+Next, the connection between the lower cylinder portion and the illumination ring body is explained.
+The vibration shaft freely rotates inside the elongated cavity even under high frequency vibration.
+The body cover has an interior cavity, which may be for example, cylindrical, for accommodating the chassis, battery holder and circuit board.
+The third occasion is when the electric toothbrush is held at about the plane level so that the bristle touches the front face or back face of the tooth perpendicularly.
+DC motor has two wires extending from a bottom face thereof for electric connection with the circuit board through connector.
+The resilient shaft portion has a flexibility to receive the high frequency vibration of the eccentric portion.
+According to an embodiment, the stem joint arrangement further includes a stem packing made of rubber and a rubber cover covering the lower cylinder portion.
+This flow redirection also results in some forward thrust on the capsule.
+The pinch valve includes a controllable piston/actuator that is moved linearly up and down.
+The capsule housing is configured to be inserted into an anatomical structure of a patient.
+The video processing unit presents the camera view on a dedicated monitor.
+As discussed above, the capsule system receives pressurized fluid from an external system to control lateral movement of the capsule.
+This novel approach bypasses the typical expenses of traditional endoscopes which are both expensive to purchase and require additional machinery to clean for reuse.
+Nearly 70% of cases occur in low/middle income countries (LMICs), where endoscopy resources are traditionally limited.
+The capsule housing is inserted into the patient's esophagus through the mouth and linearly advanced to the stomach of the patient.
+For example, to move the capsule to the right, water is controllably expelled from the exhaust port on the left of the capsule main body.
+Instead, the compressed gas, which can be carried in portable canisters, is used in conjunction with the dispensing pressure vessel to control maneuvering of the capsule.
+The embodiments herein can comprise hardware and software elements.
+Conventional methods have used supervised learning to classify normal and anomalous phenomena.
+Classification of normal and anomalous portions is based on ground truth.
+The method embodiments described herein could be implemented in hardware and software.
+Alternative boundaries can be defined so long as the specified functions and relationships thereof are appropriately performed.
+In the context of the present disclosure, anomalous phenomena indicate outliers that may encompass noise, mainly due to motion artifacts and/or abnormalities.
+The illustrated steps are set out to explain the exemplary embodiments shown, and it should be anticipated that ongoing technological development will change the manner in which particular functions are performed.
+Alternatively, the embodiments of the present disclosure may be implemented on different hardware devices, for example using a plurality of CPUs.
+In an embodiment, the pre-defined first threshold and the pre-defined second threshold may have same values.
+This is followed by identifying one or more defining features from the derived primary features based on statistical learning of normal signature of the sensor signals.
+System combines advanced artificial intelligence approaches with RFID data mediation and delivery in a cloud based usage model.
+Cloud hosted mediation system utilizes a cloud infrastructure instantiating an application based on a consumption based pay as you go delivery model.
+The use of the D-S approach requires inference engine to deduce belief functions.
+While embodiments of the present invention have been described herein for purposes of illustration, many modifications and changes will become apparent to those skilled in the art.
+Vehicles comprising a problem may be quickly identified and pulled off the streets.
+Based on this new information, the person walks back to the house (i.e., action) and picks up and opens an umbrella and then continues to walk to work.
+Inference engine crawls through the classified data (facts) stored in classification database and derives assumption type answers.
+In return, the service provider can receive payment from the customer(s) under a subscription and/or fee agreement and/or the service provider can receive payment from the sale of advertising content to one or more third parties.
+The two sets of beliefs that are established by the previous step and which are processed using D-S theory are stored in a TMS (for example, TMS).
+Additionally, the person notices bolt of lightning in the distance (i.e., evidence) and determines that there is currently a very high likelihood of rain.
+Moreover, the intrusion of filamentous fungi in houses as a result of condensation and the like, which is reflective of modern housing conditions, causes symptoms such as allergies and the like in humans, and has a deleterious effect on the health of humans and animals.
+As a result, the Candida mycelia adhering to the surface of the wells were dyed.
+Once this culturing had ended, the solutions in each well were removed by suction, and the wells were washed using physiological saline.
+In contrast, when LYZOX was used, an improvement effect in the anticandidal activity against Candida mycelial growth was visible, and it was seen that the anticandidal activity effect gradually increased as the concentration increased.
+It is desirable that a composition having an antifungal activity further comprises terpene alcohol or a fatty acid.
+The present invention uses a complex of lysozyme, which is an extremely safe, natural food additive, and a polysaccharide, and can therefore be safely used by a patient without risks such as those described above needing to be considered.
+The number of viable Candida bacteria CFU (colony forming units) recovered from the relevant individuals was then calculated from the number of colonies.
+Moreover, it is also disclosed in Patent document that, in oral candidiasis models in mice, a combination of capric acid and ginger essential oil had the greatest effect towards improving tongue symptoms.
+The interior of the oral cavity of each mouse was then wiped with a cotton bud, and the Candida bacterial cells recovered by that cotton bud were suspended in a saline solution.
+A clinical isolate, Trichophyton mentagrophytes TIMM, held by the Teikyo University Medical Mycology Research Center was used as the Trichophyton.
+A rotational gantry with a radiation nozzle is located at the end of the beam transport system.
+In this example, the main bearing is coupled to the external supporting structure and also serves to support the weight of the cantilever gantry.
+Moreover, by using monocoque housing, a gantry according to the present disclosures can be delivered to a healthcare facility as a fully-assembly, pre-tested unit.
+Each section of the monocoque housing may be a fully welded steel monocoque or box structure.
+The main bearing is covered by a main bearing housing which may or may not be an integral part of the monocoque housing of the cantilever gantry.
+A large counterweight can be disposed in the fixed end portion to keep the system center of mass close to the bearing.
+The main bearing may be a slew bearing sufficiently large to encompass the sweeping volume of the first bending magnet.
+The cantilever section may be made increasingly stiffer toward the main bearing location to counter the significant forces imposed in this region.
+Further, in some other embodiments, a rotating mechanical component other than a bearing can be used to enable rotational motion of the cantilever gantry.
+A counterweight is attached to the drum section near the external wall.
+For two-dimensional implementations, the combination is done for spectral bin images reconstructed for the same slice location.
+Image reconstruction is then performed as outlined above to create diffusion-weighted images.
+The operator workstation provides an operator interface that facilitates entering scan parameters into the MRI system.
+RF waveforms are applied by the RF system to the RF coil, or a separate local coil to perform the prescribed magnetic resonance pulse sequence.
+Accordingly, multiple networked workstations may have access to the data processing server and the data store server.
+As one non-limiting example, the systems and methods can provide quantitative diffusion-weighted assessment of spinal cord health in the immediate vicinity of spinal fusion devices or disc replacements.
+The amplitude of the slice-select gradient is flipped relative to the refocusing gradients to excite spatially and spectrally selective bins.
+Real-time images may be stored in a data base memory cache, from which they may be output to operator display or a display.
+The networked workstation may gain remote access to the data processing server or data store server via the communication system.
+To enable additional phase correction of odd and even echoes within the echo train, alternating echoes can be split into orthogonal blades.
+The method and device makes use of image analysis and statistical algorithms for automatically detecting the image acquisition protocol of a medical image.
+Further, the salient regions in the volume of the medical image may be determined by applying a blurring filter and then assigning a saliency value for the pixels above a mean intensity value.
+In certain other embodiments, the outlier detection is performed using statistical transformation algorithms.
+Another object of the disclosure is to provide a device to automatically detect the image acquisition protocol of a set of medical images.
+The above mentioned and other features of the disclosure will now be addressed with reference to the accompanying drawings of the present disclosure.
+The memory includes an anatomy detection module, a feature extraction module, a statistical classifier module, an outlier protocol detection module and label assignment module.
+The device further includes a communication module0 for communicating with other devices via a network connection.
+The HSWLBP is computed by developing a 256 dimensional histogram of the combined LBP of all the slices of an anatomy.
+The statistical classifier module may be configured to Support Vector Machine (SVM) algorithm with linear kernel to provide a good classification of the imaging protocols.
+In some other embodiments, a plurality of medical images of similar image acquisition protocols is displayed adjacent to one another.
+In another embodiment, the reference parameter is a frequency, in particular, a frequency emitted by a phantom being placed into the MRT-device.
+This object is achieved by a method for adjusting a magnetic field of a magnetic resonance, by a magnetic power supply, and by a magnetic resonance tomography (MRT) device as disclosed herein.
+As a consequence, excited hydrogen atoms emit a radio frequency signal, which is measured by a receiving coil.
+Measuring the current that realizes the magnetic field may be established, for example, by integrating a shunt into the magnetic power supply.
+In other words, the magnetic field is not measured directly and thus complex measuring systems for observing the magnetic field may be avoided.
+Removing the Helium system presents many technical challenges and practical challenges of having such a magnet operate in a real hospital or clinic environment.
+Additionally, it is possible to adjust the magnetic field accurately for establishing a desired center frequency matching to the center frequency of the receiving coil.
+In certain examples, the reference parameter is only observed during the ramp-up-mode or during a defined time span of the ramp-up mode.
+In an embodiment for setting the target value, the current is calibrated during a previous ramp-down mode, in particular, during the ramp-down mode preceding the ramp-up mode.
+By automatically placing the phantom, it is guaranteed that the position of the phantom is repeatable and there is no interference by an operator necessary.
+Fixation mechanism may be used to resist shear force, such as that created by peristalsis and thereby functions as an anti-migration mechanism.
+As the mucosa passes through openings, the bulges of the mucosa tend to bridge spacer and come together in apposition.
+The device may include a retainer that retains the section of the mucosa within the at least one opening while maintaining perfusion of the section of the mucosa.
+Alternatively, the penetrating component may include an elongated member that penetrates the sections of the mucosa at the plurality of openings.
+The penetrating component may be made up of a plurality of pointed members extending into the at least one opening from at least one of said moveable portions.
+The retainer may include a fibrotic tissue response inducing material at least partially surrounding the at least one opening.
+The at least one opening may be a plurality of openings and the penetrating component may include a plurality of penetrating components, one for retaining the section of the mucosa within each of the openings.
+The pressure component applies sufficient pressure to retain the section of the mucosa, but not enough pressure to cause ischemia which can lead to necrosis.
+The mucosa is retained by the needles of the retainer being moved together by the moveable portions of the wall as well as the force component previously described.
+The engaging ends of clip may also be configured with a penetrating component to penetrate the sections of the mucosa.
+The motor controller includes two output terminals, which output a clockwise voltage and a counter clockwise voltage.
+The clockwise voltage is outputted for a first period of time and the counter clockwise voltage is outputted for a second period of time.
+Generally, they are high-use medical products and/or medical devices, and are constructed of materials that are not safe for high temperature disinfection methods.
+Currently, lacking a comprehensive solution for the disinfection, high-level disinfection, and/or sterilization, storage and grouping of like devices, hospitals have adopted a variety of less than optimal, methods.
+Without being limited, the said interface test blocks can be removably positioned and/or located within the said treatment chamber(s).
+A bottom of the second plurality of V-shaped members are preferably, and without limitation, welded to a second mounting rod.
+A clockwise DPDT relay and a counter clockwise DPDT relay are used to provide power to a motor of the motor with gear reduction.
+In addition, patient monitoring leads, probes, sensors, and other medical device(s), routinely fail through repeated use, hand cleaning, abuse, mishandling, and stress.
+This function usually defaults to the clinical end user at the most inopportune or inconvenient time.
+Without being limited, the one or more interface test block(s) can also be permanently mounted in the sealed treatment chamber(s).
+Although such a device preferably performs a number of different functions, it is preferred that the wearable device be relatively simple and/or intuitive in operation.
+As previously explained visual indicators such as LEDs or other lighting elements may provide feedback directly to users based on mode of operation or context.
+Another use of the app is to interpret visual flashes used to convey information about debugging protocols.
+Therefore methods, devices, and systems which provide responsive visual feedback have been shown and described.
+The same lighting may be used to provide visual feedback regarding other functionality or modes of operation of the device.
+The system further includes a software application executing on a computing device wherein the software application is programmed to acquire imagery of the visual feedback and recover the data.
+Other modes of operation may include those associated with providing visual data, providing visual feedback, activating optional features, or other types of operations that may be desirable or appropriate for a particular device.
+A first set of LEDs are associated with a first device and a second set of LEDs are associated with a second device.
+The digital data may be encoded in any number of different ways and any number of types of information may be represented.
+Wearable devices may be able to perform multiple functions some of which may be complex in nature.
+As known in the overmolding arts, a molecular bond can be formed between the material of sealing portion and central portion.
+Sealing portion is then inserted into another process/mold and is overmolded over with another polymer.
+Central portion can include extending tabs which can assist in forming a secure interconnection between central portion and sealing portion.
+Although a number of syringe plungers and methods of fabrication or manufacture of syringe plungers have been developed, it is desirable to develop improved syringe plungers and methods of fabrication of syringe plungers.
+In one embodiment, the central portion is positioned forward of at least a portion of the sealing portion and is adapted to contact fluid within the syringe.
+The rubber covers can, for example, be molded into a sheet and then manually hand cut (through a cutting die) from the sheet.
+In another embodiment, the central portion is positioned rearward of a generally central section of the sealing portion and does not contact fluid within the syringe.
+The design and manufacturing methods associated with plunger reduce manufacturing costs, while maintaining functionality.
+As with other embodiments of the present invention, however, plunger cover is readily adjusted in shape and dimension to mate with a desired support.
+Subsequently, the distal portion of the hard plastic core is overmolded with a soft rubber plunger cover in a second mold.
+At least one photodiode is coupled to receive signals from the CO.sub.2 sensor and which responds to color change of the sensor element by transducing the color change into a light intensity change.
+The total time for each test was around 16 min and after each test, the sensor was stored in a small package in the atmosphere until next test.
+When the sensor is used for breath CO.sub.2 analysis, the probes can dissolve quickly upon contact with breath condensation to facilitate fast reaction kinetics.
+This summary is not intended to identify key features of the claimed subject matter, nor is it intended to be used as an aid in determining the scope of the claimed subject matter.
+In another aspect, the detector also includes a transmitter and a mobile device coupled to receive data transmitted by the transmitter.
+In another aspect the porous hydrophobic surface, which comprises a plurality of microstructures is coated with sensing chemicals.
+For example, the shapes of various elements and angles are not drawn to scale, and some of these elements are arbitrarily enlarged and positioned to improve drawing legibility.
+Further, the particular shapes of the elements as drawn, are not intended to convey any information regarding the actual shape of the particular elements, and have been solely selected for ease of recognition in the drawings.
+This is in contrast to existing CO.sub.2 sensors, where water condensation is a major source of interference.
+Due to the fast response time, difference in respiration patterns between subjects with different lung capabilities could be clearly observed from the breath-by-breath CO.sub.2 waveforms.
+The treatment of psychiatric diseases such as depression, states of anxiety, manias, schizophrenia, etc., constitutes a considerable challenge.
+Treatments such as the administering of SSRIs have the effect for example of increasing the size of the amygdala, and this, in turn, can be associated with emotional recovery.
+In addition, image data reconstructed from the magnetic resonance signals and further patient data are transmitted via the data network and stored in a database in the data memory together with the biomarker values.
+In method step the quantified biomarker information or one or more biomarker value(s) are then stored together with patient data in the data memory.
+Additional data may also be stored in the database for this purpose, for example clinical scores for evaluation of the severity of the disease or for the medication.
+Magnetic resonance spectroscopy is also used to determine conclusions about abnormal changes in individual areas of the brain.
+Various magnetic resonance imaging methods have been evaluated in research which may be of significance to diagnostics and differential diagnostics as well as to treatment monitoring.
+A first examination of the patient begins in the magnetic resonance device, already described in the introduction, after the capture of fundamental patient data.
+Furthermore, it is also possible for measuring parameters, which were used by a first examination center in the initial examination, to be used by a second, different examination center in the follow-up examination.
+The dilemma arises therefrom for the patient and doctor of weighing up the sometimes severe side effects which worsen symptoms against the long-term effect of the medication.
+In this respect, at least the body is reusable, and additional components of the anti-clog suction tip apparatus that are not part of the kit also are reusable.
+The anti-clog suction tip apparatus is adapted to attach to a hose at the hose attachment portion, with the hose having a suction source attached thereto.
+Additional preferred embodiments of anti-clog suction tip apparatus in accordance with one or more aspects of the invention are shown in the remaining figures.
+Indeed, the steps in such processes or methods generally may be carried out in various different sequences and orders while still falling within the scope of the present invention.
+Furthermore, any embodiment discussed and identified as being "preferred" is considered to be part of a best mode contemplated for carrying out the present invention.
+In yet another feature, the ejection wire is inserted into the ejection wire channel through a wire insertion opening.
+The sterile packaging in which the anti-clog suction tip apparatus is provided is opened by sterile technique in the surgical environment, and the anti-clog suction tip apparatus is removed from the packaging and placed on a sterile table to await use by a surgeon or surgical assistant.
+The ejection wire includes a small ball tip at the end thereof to prevent unintended injury during use, as well as to provide an enlarged end for clearing of the suction channel when the ball tip is deployed.
+Based on the foregoing description, it will be readily understood by those persons skilled in the art that the present invention is susceptible of broad utility and application.
+In another variation, the biasing spring biases the ejection button away from the outer member.
+In the present example the grip is a pistol grip, although in other examples the grip can have various other configurations, or can simply be omitted.
+In addition, in the foregoing Detailed Description, it can be seen that various features are grouped together in various embodiments for the purpose of streamlining the disclosure.
+In a first stage, the battery is moved from the inserted position to the intermediate position by applying pressure to the primary actuators from outside the mobile device.
+Skilled artisans will appreciate that elements in the figures are illustrated for simplicity and clarity and have not necessarily been drawn to scale.
+To replace the battery into the compartment, the front end of the battery is placed into the compartment at the open rear end of the compartment.
+In the present example, the contacts, which electrically connect the battery to the internal components of the mobile device when the battery is fully inserted into the compartment, are pogo pins.
+In particular, when the latches are disengaged from the first latch stops, the battery moves rearward and the latches return to the extended position, as they are no longer forced inwards by the primary actuators.
+For example, the dimensions of some of the elements in the figures may be exaggerated relative to other elements to help to improve understanding of embodiments of the present invention.
+The term "coupled" as used herein is defined as connected, although not necessarily directly and not necessarily mechanically.
+In particular, the front end of the compartment is defined by a wall bearing a set of contacts.
+Once these quantitative parameter maps are obtained, it may be possible to identify the tissue properties and provide information to improve diagnostic assessment.
+In other instances, well-known structures and devices are shown in block diagram form in order to avoid unnecessarily obscuring various exemplary embodiments.
+An increase in the size of MRF dictionary is the ultimate requirement to gain improvement in the MRF results and further in depth analysis of tissues.
+The GPU based MRF implementation provides cost effective solution to reduce the execution time of conventional MRF algorithm.
+Such memories may be implemented in any suitable form, including, but not limited to, non-volatile media, volatile media, and transmission media.
+However, Magnetic Resonance Fingerprinting (MRF), an innovative method can quantitatively examine many magnetic resonance tissue parameters simultaneously.
+The terminology used herein is for the purpose of describing particular embodiments and is not intended to be limiting.
+Then GPU is used to further reduce the computation time by introducing CUDA kernels for all the operations that process independent data.
+The main advantage of the exemplary method is a significant improvement in the computation time without reducing the size of data or number of operations required in the native MRF algorithm.
+When an exemplary embodiment may be implemented differently, a specific process order may be performed differently from the described order.
+A series of von Frey filaments with logarithmically incrementing stiffness (Stoelting) was applied perpendicular to the mid-plantar region of the hind paw.
+Chemokines are released during inflammation, and they block the signaling of opioid receptors by a process of heterologous desensitization.
+Our results showed that following the induction of diabetes, rats exhibited persistent mechanical and cold allodynia (up to five months post-induction).
+The results suggest that functional antagonism of multiple chemokine receptors and innate immune receptors may be treatments and medicines for pain and inflammation.
+Microglia in the spinal cord dorsal horns became activated with hypertrophic morphology and an increase in microglial cell number.
+Body weight and blood glucose levels were measured before and 3 days after streptozotocin injection, once a week for three weeks after diabetes induction.
+Painful diabetic neuropathy (PDN) is a common complication of diabetes which adversely affects patients' daily life and represents a major public health problem.
+Animals were brought back to their individual chambers for mechanical allodynia testing.
+Although the most potent and effective drugs are the opioid analgesics, they are accompanied by a number of serious adverse effects, and they are not very effective in approximately half of the cases of chronic pain.
+Rats were habituated to the testing environment daily for at least two days before the experiments started.
+The compartment associated with fat is known to show only small variations or dependencies on the surrounding tissue.
+As these excited nuclei relax and return to the equilibrium state, the transverse components of the excited spins induce a voltage in the receive coils that is measured.
+For a known fat content/fraction, the relative signal of fat thus can be modeled and considered in the determination of the relaxation times for the water compartment.
+These gradient pulses are radiated (activated) at precisely provided time positions and with a precisely predetermined time curve during a measurement.
+In a further embodiment that can be characterized as joint fitting, the fat fraction is also determined by fitting to a dedicated signal model, typically multi-echo acquisitions.
+The relaxation is not free (undisturbed), but the effect of the continuous FLASH acquisitions can be considered as the signal model.
+It is also possible to use multi-echo FLASH in T1 mapping, specifically in the context of the Look-Locker technique and the FLASH steady state technique.
+In this scenario, the signal contribution of fat can be modeled, and only the T1 value of water is then determined, by fitting a model to the acquired data.
+The MR signals are received with a local coil, which can be composed of one or more individual reception coils.
+The local coil can also be used to radiate the RF signals.
+Items can be shipped to remote regions or regions with insufficient infrastructure without the concerns or costs associated with temperature-controlled shipments.
+The kit may further comprise a receptacle suitable for performing a nucleic acid amplification reaction for one or more sequences of interest.
+The quality and integrity of the resultant PCR products were investigated by performing DNA sequencing as a representative downstream application.
+The physically stable, solid lyophilised reagent provides long term stability at ambient temperature, can be dispensed in flexible formats, and is amenable to downstream manipulation.
+The beads and the constituent reagents are room temperature stable and as such offer significant advantages over traditional PCR amplification workflows.
+In some embodiments, the biomolecule in the composition is a protein, such as an enzyme, for example a nucleic acid polymerase.
+The beads are removed from the liquid nitrogen using a sieve that ensures that beads exhibit a spherical shape with consistent diameter size and weight.
+The end point of the determination is indicated voltametrically by applying an alternating current to an electrode immersed in the electrolyte.
+Preferably the biological sample comprises nucleic acid and the stabilized biomolecule is a nucleic acid polymerase and the assay is an amplification reaction, such as PCR.
+Ready-To-Go having Tg values well above room temperature ensure that the products can be shipped and stored without the need for refrigeration.
+Such corner reflectors are known for use in reflecting light or electromagnetic radiation directly back to their source.
+A person within the space or cubicle speaking on the phone or with others will have his or her words returned back to them and passively amplified with extraneous sounds filtered out.
+These surfaces were based on mathematical number theory sequences and numerical optimization and uniformly scattered the incident sound over a wide range of desirable frequencies for any angle of incidence.
+This is the least desirable embodiment because it reflects all the sound waves including low frequencies below the bottom frequency of speech which can cause confusion to the speaker when his or her speech is reflected directly back to them.
+These two patents disclose differing types of micro-slits used as a sound absorber and either could be employed in accordance with the teachings of the present invention.
+It is based on the tri-rectangular tetrahedron geometric shape and has the unique ability to return incident sound back in the direction of incidence, like a boomerang.
+At the same time, the array assists in preventing their speech from emanating to the next adjacent cubicle and disturbing its occupant.
+In such an environment, musicians will be better able to hear themselves and diffusers can also be employed so that such musicians can hear contributions from the entire ensemble.
+In an absorber, a percentage of the incident sound is absorbed by the absorber so that sound emanating from the absorber is reduced particularly in amplitude.
+The ceiling area is very important to provide useful early reflections.
+The dosage will vary according to the type of disorder, the disease conditions and will be subject to the judgment of the medical practitioner involved.
+Unless otherwise specified, all percentages and amounts expressed herein and elsewhere in the specification should be understood to refer to percentages by weight.
+These results indicate that cytotoxic effects of CFZ alone or in combination with IMT are specific for leukemia cells only.
+Further areas of applicability of the present invention will become apparent from the detailed description provided hereinafter.
+Applicants incorporate the contents of the sequence listing by reference in its entirety.
+As used throughout, ranges are used as shorthand for describing each and every value that is within the range.
+Further, CFZ is shown here to synergize with imatinib and dasatinib and combination of CFZ with imatinib almost obliterates quiescent leukemia stem cells.
+Total RNA was extracted using TRI Reagent (Life Technologies, Carlsbad, Calif.) according to manufacturer's instructions.
+K562 cells were treated with CFZ for 120 h and May-Grunwald-Giemsa staining followed by light microscopy was used to assess cellular morphology.
+These slides were stained with Giemsa and May-Grunwald solution (Sigma) as per manufacturer's instruction.
